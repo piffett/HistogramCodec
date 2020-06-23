@@ -13,7 +13,7 @@
 ## エンコーダを叩く時
 
 ```
-python3 encode.py TMW/camera,pgm encoded default
+python3 encode.py TMW/camera.pgm encoded default
 ↑最後の引数でエンコーダのバージョンを指定する
 ```
 
